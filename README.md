@@ -10,6 +10,11 @@ An AI-driven legal document analyzer that performs clause extraction,
 summarization, risk evaluation, and document comparison with a clean,
 user-friendly interface.
 
+It is successfully deployed on Rendor
+### link : https://legal-document-analyzer-5ll5.onrender.com
+
+
+
 ## Features
 
 ### Clause Extraction
@@ -83,7 +88,6 @@ Export professional reports containing: - Summary\
 This system provides AI-generated legal insights for assistance.\
 It does not replace professional legal advice.
 
-It is successfully deployed by My Friend Somath darling on Rendor
-link : https://legal-document-analyzer-5ll5.onrender.com
+
 
 
