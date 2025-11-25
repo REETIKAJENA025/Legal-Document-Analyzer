@@ -82,3 +82,8 @@ Export professional reports containing: - Summary\
 
 This system provides AI-generated legal insights for assistance.\
 It does not replace professional legal advice.
+
+It is succesfully deployed on Rendor
+link:https://legal-document-analyzer-5ll5.onrender.com
+
+
